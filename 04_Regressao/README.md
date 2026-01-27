@@ -71,5 +71,8 @@ Este módulo contém **4 notebooks**:
 
 ## Autores
 
+- Igor Pires Ferreira
+- Maisa Lumi Sonoda
+
 
 ---
