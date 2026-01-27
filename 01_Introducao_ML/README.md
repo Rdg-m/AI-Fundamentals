@@ -57,5 +57,8 @@ Este módulo contém **3 notebooks**:
 
 ## Autores
 
+- Gabriel da Silva Navarro
+- Igor Pires Ferreira
+- Maisa Lumi Sonoda
 
 ---
