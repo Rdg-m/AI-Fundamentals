@@ -58,5 +58,7 @@ Este módulo contém **3 notebooks**:
 
 ## Autores
 
+- Igor Pires Ferreira
+- Lucas Antonio Pataluch dos Santos
 
 ---
