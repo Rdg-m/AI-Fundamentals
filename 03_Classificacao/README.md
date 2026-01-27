@@ -57,11 +57,38 @@ Este módulo contém **6 notebooks**:
 
 ## Fontes (bibliografia principal)
 
+- Müller, A. C., & Guido, S. (2016). Introduction to machine learning with python: A guide for data scientists. O'Reilly Media, Inc. 
+
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+
+- [Pedram Jahangiry](https://www.youtube.com/@pedramjahangiry)
 
 ---
 
 ## Saber mais (leituras complementares)
 
+- **Regularização:** [Logistic Regression and Regularization](https://medium.com/@rithpansanga/logistic-regression-and-regularization-avoiding-overfitting-and-improving-generalization-e9afdcddd09d)
+- **Softmax Regression:** [Multinomial Logistic Regression](https://rasbt.github.io/mlxtend/user_guide/classifier/SoftmaxRegression/)
+- **Fundamentos:** [Understanding Logistic Regression](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
+---
+
+   **Documentação Oficial:**
+- [Scikit-Learn: SVM](https://scikit-learn.org/stable/modules/svm.html)
+- [SVC API Reference](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+- [SVR API Reference](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+- [LightGBM](https://lightgbm.readthedocs.io/en/stable/Python-Intro.html)
+- [CatBoost](https://catboost.ai/docs/en/concepts/python-installation)
+- [VotingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html)
+
+**Tutoriais e Artigos:**
+- Drew Wilimitis. [The Kernel Trick](https://medium.com/data-science/the-kernel-trick-c98cdbcaeb3f). Medium
+- Sunil Ray. [Understanding Support Vector Machine](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/). Analytics Vidhya.
+- Avinash Navlani. [SVM Tutorial](https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python). DataCamp
+
+**Vídeos Recomendados:**
+- [StatQuest: Support Vector Machines](https://www.youtube.com/watch?v=efR1C6CvhmE)
+- [SVM with Polynomial Kernel Visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
 
 ---
 
