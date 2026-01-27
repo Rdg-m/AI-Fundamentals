@@ -114,9 +114,19 @@ pip install -r requirements.txt
     ├── 01_introducao.ipynb
     ├── 02_dimensionality_reduction.ipynb
     └── 03_clustering.ipynb
----
+
+```
+
 
 ## Autores
 
+- Felipe Melo
+- Gabriel da Silva Navarro
+- Henrique Nogueira Pedro Lindoso
+- Igor Pires Ferreira
+- Maisa Lumi Sonoda
+- Thales Vieira Rodrigues
+    
+    
 
 ---
