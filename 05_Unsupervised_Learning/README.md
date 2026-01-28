@@ -34,6 +34,9 @@ Este módulo contém **3 notebooks**:
 ---
 
 ## Fontes (bibliografia principal)
+
+- Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O'Reilly Media.
+
 - [What ls Unsupervised Learning?](https://www.mathworks.com/discovery/unsupervised-learning.html). MathWorks 
 - Mark Taylor. [Supervised vs. Unsupervised Learning: Understanding the Key Differences](https://taylor-mark110.medium.com/supervised-vs-unsupervised-learning-understanding-the-key-differences-d43a3c8ede82). Medium
 - Kurtis Pykes. [Introdução ao aprendizado não supervisionado](https://www.datacamp.com/pt/blog/introduction-to-unsupervised-learning). DataCamp

@@ -42,6 +42,7 @@ Este módulo contém **4 notebooks**:
 ---
 
 ## Fontes (bibliografia principal)
+- Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O'Reilly Media.
 
 
 ---

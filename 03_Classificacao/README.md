@@ -59,6 +59,9 @@ Este módulo contém **6 notebooks**:
 
 - Müller, A. C., & Guido, S. (2016). Introduction to machine learning with python: A guide for data scientists. O'Reilly Media, Inc. 
 
+- Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O'Reilly Media.
+
+
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
 - [Pedram Jahangiry](https://www.youtube.com/@pedramjahangiry)
