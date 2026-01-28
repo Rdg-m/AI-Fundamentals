@@ -57,7 +57,7 @@ Redução de dimensionalidade (PCA, LLE) e clustering (K-Means, DBSCAN, GMM)
 
 Para informações detalhadas sobre cada módulo, consulte:
 
-- [Módulo 1: Introdução ao Machine Learning](01_Introducao_ML/README.md)
+- [Módulo 1: Introdução ao Machine Learning](01_Introducao/README.md)
 - [Módulo 2: Fundamentos de Machine Learning](02_Fundamentos_ML/README.md)
 - [Módulo 3: Classificação](03_Classificacao/README.md)
 - [Módulo 4: Regressão](04_Regressao/README.md)
