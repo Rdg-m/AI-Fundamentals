@@ -1,7 +1,5 @@
 # Introdução ao Machine Learning
 
-## Introdução
-
 **Introdução ao Machine Learning** é um material estruturado que cobre Machine Learning desde conceitos fundamentais até algoritmos avançados. O material integra explicações conceituais, formalização matemática e implementação prática em Python.
 
 ---
