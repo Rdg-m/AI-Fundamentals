@@ -33,11 +33,18 @@ Este módulo contém **3 notebooks**:
 
 ## Fontes (bibliografia principal)
 
+- Sutton, R. S. & Barto, A. G. (2018 ), Reinforcement Learning: An Introduction , The MIT Press.
+- Moez Ali. [Supervised Machine Learning](https://www.datacamp.com/blog/supervised-machine-learning). DataCamp.
+
 
 ---
 
 ## Saber mais (leituras complementares)
 
+- [O que é aprendizado supervisionado?](https://cloud.google.com/discover/what-is-supervised-learning). Google.
+
+- [What is unsupervised learning?](https://www.ibm.com/think/topics/unsupervised-learning). IBM.
+- [What is Unsupervised Learning](https://www.geeksforgeeks.org/machine-learning/unsupervised-learning/). GeeksforGeeks
 
 ---
 

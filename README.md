@@ -126,6 +126,7 @@ pip install -r requirements.txt
 - Igor Pires Ferreira
 - Lucas Antonio Pataluch dos Santos
 - Maisa Lumi Sonoda
+- Rodrigo Catto Menin
 - Thales Vieira Rodrigues
     
     
