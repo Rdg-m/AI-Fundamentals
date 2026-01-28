@@ -12,9 +12,9 @@
 
 #### **Módulo 1: Introdução ao Machine Learning** (3 notebooks)
 Conceitos iniciais: diferenciação entre IA/ML/DL, tipos de aprendizado (supervisionado, não supervisionado, por reforço) e notação matemática básica.
-- [01_fundamentos_ia_ml.ipynb](01_Introducao_ML/01_fundamentos_ia_ml.ipynb)
-- [02_tipos_aprendizado.ipynb](01_Introducao_ML/02_tipos_aprendizado.ipynb)
-- [03_matematica_ml.ipynb](01_Introducao_ML/03_matematica_ml.ipynb)
+- [01_fundamentos_ia_ml.ipynb](01_Introducao/01_fundamentos_ia_ml.ipynb)
+- [02_tipos_aprendizado.ipynb](01_Introducao/02_tipos_aprendizado.ipynb)
+- [03_matematica_ml.ipynb](01_Introducao/03_matematica_ml.ipynb)
 
 #### **Módulo 2: Fundamentos de Machine Learning** (4 notebooks)
 Categorias de modelos, trade-off bias-variância, validação cruzada e engenharia de features.
